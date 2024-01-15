@@ -8,6 +8,10 @@ This repo is to support the workshop [Renewable Energy Assets in the Smart Home:
 In this workshop, you will learn how to manage demand flexibility for residential properties equipped with interconnected renewable energy assets using a digital twin, which includes an electric vehicle and solar panels. Develop strategies for efficiently managing a surge in energy production by utilizing renewable energy resources to their fullest extent while ensuring grid stability and reducing the need for grid-supplied energy. Learn how to integrate AWS services with a digital twin, explore strategies for optimizing renewable energy utilization, and understand the demand-side response in the context of variable renewable energy generation. You must bring your laptop to participate.
 
 ![Workshop intro](/workshop-intro.png).
+ 
+
+## Pre-requisites
+To be able to deploy this workshops architecture, you will need the AWS CDK CLI installed and Docker running.
 
 ## Security
 
