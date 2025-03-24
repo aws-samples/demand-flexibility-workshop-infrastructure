@@ -11,7 +11,7 @@
     "cdk": "cdk"
   },
   "devDependencies": {
-    "@aws-cdk/aws-lambda-python-alpha": "2.93.0-alpha.0",
+    "@aws-cdk/aws-lambda-python-alpha": "2.185.0-alpha.0",
     "@types/node": "20.1.7",
     "aws-cdk": "2.93.0",
     "ts-node": "^10.9.1",
@@ -19,7 +19,7 @@
     "@babel/traverse": ">=7.23.2"
   },
   "dependencies": {
-    "aws-cdk-lib": "^2.93.0",
+    "aws-cdk-lib": "^2.185.0",
     "cdk-nag": "^2.27.191",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21",
